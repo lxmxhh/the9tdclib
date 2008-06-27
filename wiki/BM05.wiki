@@ -1,0 +1,21 @@
+=Summary=
+C++多范型设计
+
+=书名=
+C++多范型设计
+
+=原名=
+Multi-Paradigm Design for C++
+
+=作者=
+(美)James O. Coplien著
+鄢爱兰 周辉 等 译
+
+=出版社=
+中国电力出版社
+
+=共享者=
+[BM 包明]
+
+=标签=
+[BM05]
