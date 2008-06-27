@@ -21,3 +21,6 @@ Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides著
 
 =标签=
 [XH07]
+
+=相同的书=
+[BM17]
