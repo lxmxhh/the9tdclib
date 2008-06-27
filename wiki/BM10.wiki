@@ -1,0 +1,22 @@
+=Summary=
+UML和模式应用
+
+=书名=
+Applying UML and Patterns
+An Introduction to Object-Oriented Analysis and Design and Iterative Development
+THIRD EDITION
+
+=中文名=
+UML和模式应用 英文版 第3版
+
+=作者=
+(美)Craig Larman 著
+
+=出版社=
+机械工业出版社 - China Machine Press
+
+=共享者=
+[BM 包明]
+
+=标签=
+[BM10]
