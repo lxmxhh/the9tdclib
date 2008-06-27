@@ -1,0 +1,23 @@
+=Summary=
+C++设计新思维
+
+=书名=
+C++设计新思维
+泛型编程与设计模式之应用
+
+=原名=
+Modern C++ Design
+Generic Programming and Design Patterns Applied
+
+=作者=
+Andrei Alexandrescu 著
+侯捷 於春景 译
+
+=出版社=
+华中科技大学出版社
+
+=共享者=
+[XH 徐鸿]
+
+=标签=
+[XH08]
