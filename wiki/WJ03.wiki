@@ -22,5 +22,5 @@ Volume 1, The Protocols
 [WJ03]
 
 =同系列=
- * [WJ03 卷1:协议]
- * [WJ04 卷2:实现]
+ * [WJ03 WJ03 卷1:协议]
+ * [WJ04 WJ04 卷2:实现]
