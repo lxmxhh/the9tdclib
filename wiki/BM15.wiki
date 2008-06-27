@@ -1,0 +1,23 @@
+=Summary=
+C++网络编程 卷2
+
+=书名=
+C++网络编程 卷2
+基于ACE和框架的系统化复用
+
+=原名=
+C++ Network Programming, Volume 2
+Systematic Reuse with ACE and Frameworks
+
+=作者=
+Douglas C.Schmidt, Stephen D.Huston 著
+马维达 译
+
+=出版社=
+电子工业出版社
+
+=共享者=
+[BM 包明]
+
+=标签=
+[BM15]
