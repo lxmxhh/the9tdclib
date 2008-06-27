@@ -1,0 +1,26 @@
+=Summary=
+TCP/IP详解 卷1 协议
+
+=书名=
+TCP/IP详解 卷1 协议
+
+=原名=
+TCP/IP Illustrated
+Volume 1, The Protocols
+
+=作者=
+(美)W. Richard Stevens 著
+范建华 胥光辉 张涛 等译
+
+=出版社=
+机械工业出版社
+
+=共享者=
+[WJ 汪世俊]
+
+=标签=
+[WJ03]
+
+=同系列=
+ * [WJ03 卷1:协议]
+ * [WJ04 卷2:实现]
