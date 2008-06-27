@@ -1,0 +1,19 @@
+=Summary=
+Effective STL 中文版
+
+=书名=
+Effective STL 中文版
+50条有效使用STL的经验
+
+=作者=
+(美)Scott Meyers著
+潘爱民 陈铭 邹开红 译
+
+=出版社=
+清华大学出版社
+
+=共享者=
+[XH 徐鸿]
+
+=标签=
+[XH04]
