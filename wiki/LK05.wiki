@@ -1,0 +1,20 @@
+=Summary=
+深入浅出设计模式
+
+=书名=
+Head First Design Patterns
+
+=中文名=
+深入浅出设计模式
+
+=作者=
+Eric Freeman & Elisabeth Freeman with Kathy Sierra & Bert Bates 著
+
+=出版社=
+东南大学出版社
+
+=共享者=
+[LK 刘堃]
+
+=标签=
+[LK045
