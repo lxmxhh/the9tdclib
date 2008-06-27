@@ -1,0 +1,17 @@
+=Summary=
+移山之道 - VSTS软件开发指南
+
+=书名=
+移山之道 - VSTS软件开发指南
+
+=作者=
+邹欣 著
+
+=出版社=
+电子工业出版社 - Publih House of Electronics Industry
+
+=共享者=
+[LK 刘堃]
+
+=标签=
+[LK04]
