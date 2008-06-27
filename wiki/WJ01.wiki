@@ -1,0 +1,20 @@
+=Summary=
+ATL技术内幕
+
+=书名=
+ATL Internals
+
+=中文名=
+ATL技术内幕
+
+=作者=
+Brent Rector, Chris Sells 编著
+
+=出版社=
+科学出版社
+
+=共享者=
+[WJ 汪世俊]
+
+=标签=
+[WJ01]
