@@ -1,0 +1,17 @@
+=Summary=
+Intel Threading Building Blocks
+
+=书名=
+Intel Threading Building Blocks
+
+=作者=
+James Reinders 著
+
+=出版社=
+O'REILLY
+
+=共享者=
+[XH 徐鸿]
+
+=标签=
+[XH03]
