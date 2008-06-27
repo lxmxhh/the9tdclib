@@ -1,0 +1,25 @@
+=Summary=
+面向模式的软件体系结构
+
+=书名=
+面向模式的软件体系结构 卷1 模式系统
+
+=原名=
+Pattern-Oriented Software Architecture
+
+=作者=
+(美)Andrew Kirmse 编
+
+=出版社=
+机械工业出版社 - China Machine Press
+
+=共享者=
+包明
+
+=标签=
+BM01
+
+=同系列=
+* [BM01 BM01 卷1：模式系统 - A System Of Parterns]
+* [BM02 BM02 卷2：用于并发和网络化对象的模式 - Patterns for Concurrent and Networked Objects]
+* [BM03 BM03 卷3：设计系列 - Patterns for Resource Management]
