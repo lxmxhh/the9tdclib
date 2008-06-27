@@ -1,0 +1,20 @@
+=Summary=
+计算机体系结构 量化研究方法
+
+=书名=
+Computer Architecture:A Quantitative Approach(Third Edition)
+
+=中文名=
+计算机体系结构 量化研究方法
+
+=作者=
+(美)John L. Hennessy,David A. Patterson 著
+
+=出版社=
+机械工业出版社 - China Machine Press
+
+=共享者=
+[LK 刘堃]
+
+=标签=
+[LK06]
