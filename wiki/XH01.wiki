@@ -1,0 +1,21 @@
+=Summary=
+深度探索C++对象模型 
+
+=书名=
+深度探索C++对象模型 
+
+=原名=
+Inside The C++ Object Model
+
+=作者=
+Stanley B.Lippman 著
+侯捷 译
+
+=出版社=
+华中科技大学出版社
+
+=共享者=
+[XH 徐泓]
+
+=标签=
+[XH01]
