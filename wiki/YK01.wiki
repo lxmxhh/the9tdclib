@@ -1,0 +1,21 @@
+=Summary=
+Visual C++程序员实用大全(精华版)
+
+=书名=
+Visual C++程序员实用大全(精华版)
+
+=原名=
+Microsoft Visual C++ Programming Tips 1001
+
+=作者=
+(美)Charles Wright 等 著
+邓劲生 张晓明 等 译
+
+=出版社=
+中国水利水电出版社
+
+=共享者=
+[YK 杨珂]
+
+=标签=
+[YK01]
