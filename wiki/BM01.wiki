@@ -20,6 +20,6 @@ Pattern-Oriented Software Architecture
 BM01
 
 =同系列=
-* [BM01 BM01 卷1：模式系统 - A System Of Parterns]
-* [BM02 BM02 卷2：用于并发和网络化对象的模式 - Patterns for Concurrent and Networked Objects]
-* [BM03 BM03 卷3：设计系列 - Patterns for Resource Management]
+ * [BM01 BM01 卷1：模式系统 - A System Of Parterns]
+ * [BM02 BM02 卷2：用于并发和网络化对象的模式 - Patterns for Concurrent and Networked Objects]
+ * [BM03 BM03 卷3：设计系列 - Patterns for Resource Management]
