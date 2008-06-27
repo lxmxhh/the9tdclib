@@ -6,6 +6,7 @@
 
 =原名=
 Pattern-Oriented Software Architecture
+A System Of Parterns
 
 =作者=
 (美)Andrew Kirmse 编
