@@ -1,0 +1,21 @@
+=Summary=
+C++并行与分布式编程
+
+=书名=
+C++并行与分布式编程
+
+=原名=
+Parallel and Distributed Programming Using C++
+
+=作者=
+(美)Cameron Hughes, Tracey Hughes著
+肖和平 张杰良 等 译
+
+=出版社=
+中国电力出版社
+
+=共享者=
+[BM 包明]
+
+=标签=
+[BM16]
