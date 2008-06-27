@@ -1,0 +1,21 @@
+=Summary=
+Effective STL
+
+=书名=
+Effective STL
+50 Specific Ways to Improve Your Use of the Standard Template Library
+
+=中文名=
+STL高效编程
+
+=作者=
+(美)Scott Meyers著
+
+=出版社=
+机械工业出版社 - China Machine Press
+
+=共享者=
+[BM 包明]
+
+=标签=
+[BM04]
