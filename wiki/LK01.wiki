@@ -1,0 +1,20 @@
+=Summary=
+测试驱动开发
+
+=书名=
+Test-Driven Deveplopment, By Example
+
+=中文名=
+测试驱动开发
+
+=作者=
+(美)Kent Beck 著
+
+=出版社=
+中国电力出版社
+
+=共享者=
+[LK 刘堃]
+
+=标签=
+[LK01]
