@@ -1,0 +1,22 @@
+=Summary=
+软件体系结构的艺术
+
+=书名=
+软件体系结构的艺术
+
+=原名=
+The Art of Software Architecture
+Design Methods and Techniques
+
+=作者=
+(美)Stephen T. Albin 著
+刘晓霞 郝玉洁 等 译
+
+=出版社=
+机械工业出版社 - China Machine Press
+
+=共享者=
+[BM 包明]
+
+=标签=
+[BM08]
