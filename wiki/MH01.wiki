@@ -1,0 +1,20 @@
+=Summary=
+C++程序设计语言
+
+=书名=
+The C++ Programming Language
+
+=中文名=
+C++程序设计语言
+
+=作者=
+(美)BjarneCraig Larman 著
+
+=出版社=
+高等教育出版社 - Higher Education Press
+
+=共享者=
+[MH 梅久华]
+
+=标签=
+[MH01]
