@@ -1,5 +1,4 @@
-=Summary=
-分析模式 可复用的对象模型
+#summary 分析模式 可复用的对象模型
 
 =书名=
 Analysis Patterns, Reusable Object Models

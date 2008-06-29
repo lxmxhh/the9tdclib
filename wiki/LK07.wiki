@@ -1,5 +1,4 @@
-=Summary=
-J2EE应用开发详解
+#summary J2EE应用开发详解
 
 =书名=
 J2EE应用开发详解

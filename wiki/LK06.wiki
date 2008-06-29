@@ -1,5 +1,4 @@
-=Summary=
-计算机体系结构 量化研究方法
+#summary 计算机体系结构 量化研究方法
 
 =书名=
 Computer Architecture:A Quantitative Approach(Third Edition)

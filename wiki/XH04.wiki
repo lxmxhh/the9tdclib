@@ -1,5 +1,4 @@
-=Summary=
-Effective STL 中文版
+#summary Effective STL 中文版
 
 =书名=
 Effective STL 中文版

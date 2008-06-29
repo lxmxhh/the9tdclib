@@ -1,5 +1,4 @@
-=Summary=
-深入浅出设计模式
+#summary 深入浅出设计模式
 
 =书名=
 Head First Design Patterns

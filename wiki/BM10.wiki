@@ -1,5 +1,4 @@
-=Summary=
-UML和模式应用
+#summary UML和模式应用
 
 =书名=
 Applying UML and Patterns

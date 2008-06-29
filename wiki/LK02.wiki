@@ -1,5 +1,4 @@
-=Summary=
-软件测试（第2版）
+#summary 软件测试（第2版）
 
 =书名=
 Software Testing(Second Edition)

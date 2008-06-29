@@ -1,5 +1,4 @@
-=Summary=
-Intel Threading Building Blocks
+#summary Intel Threading Building Blocks
 
 =书名=
 Intel Threading Building Blocks

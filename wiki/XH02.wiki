@@ -1,5 +1,4 @@
-=Summary=
-交互式计算机图形学 英文版
+#summary 交互式计算机图形学 英文版
 
 =书名=
 Interactive Computer Graphics

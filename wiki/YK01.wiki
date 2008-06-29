@@ -1,5 +1,4 @@
-=Summary=
-Visual C++程序员实用大全(精华版)
+#summary Visual C++程序员实用大全(精华版)
 
 =书名=
 Visual C++程序员实用大全(精华版)

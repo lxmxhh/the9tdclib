@@ -1,5 +1,4 @@
-=Summary=
-C++程序设计语言
+#summary C++程序设计语言
 
 =书名=
 The C++ Programming Language
