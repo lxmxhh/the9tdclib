@@ -1,0 +1,19 @@
+#summary 数字图像处理
+=书名=
+数字图像处理
+
+=原名=
+Digital Image Processing
+
+=作者=
+Kenneth.R. Castleman 著
+朱志刚 林学言('门'中一个'言'字) 石定机 等 译
+
+=出版社=
+电子工业出版社
+
+=共享者=
+[BM 包明]
+
+=标签=
+[BM22]
