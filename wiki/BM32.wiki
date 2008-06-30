@@ -1,0 +1,20 @@
+#summary 面向方面的分析与设计 Theme方法
+
+=书名=
+Aspect-Oriented Analysis and Design
+The Theme Approach
+
+=中文名=
+面向方面的分析与设计 Theme方法
+
+=作者=
+(爱尔兰)Siobhan Clarke, Elisa Baniassad 著
+
+=出版社=
+机械工业出版社
+
+=共享者=
+[BM 包明]
+
+=标签=
+[BM32]
