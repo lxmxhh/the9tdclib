@@ -1,0 +1,17 @@
+#summary Fundamentals of WiMAX
+
+=书名=
+Fundamentals of WiMAX
+Understanding Broadband Wireless Networking
+
+=作者=
+Jeffrey G. Andrews, Arunabha Ghosh, Rias Muhamed 著
+
+=出版社=
+Prentice Hall
+
+=共享者=
+[CL 陈国利]
+
+=标签=
+[CL05]
