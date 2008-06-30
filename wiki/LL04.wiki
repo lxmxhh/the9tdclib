@@ -1,0 +1,21 @@
+#summary 交互设计 超越人机交互
+
+=书名=
+交互设计 超越人机交互
+
+=原名=
+Interaction Design
+Beyond Human-Computer Interaction
+
+=作者=
+(美)Jennifer Preece, Yvonne Rogers, Helen Sharp 著
+刘晓辉 张景 等 译
+
+=出版社=
+电子工业出版社
+
+=共享者=
+[LL 梁亮]
+
+=标签=
+[LL04]
