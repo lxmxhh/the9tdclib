@@ -1,0 +1,20 @@
+#summary Windows 程序调试
+
+=书名=
+Windows 程序调试
+
+=原名=
+Debugging Windows Programs
+
+=作者=
+Everett N. McKay, Mike Woodring 著
+何键辉 许俊娟 董伟 译
+
+=出版社=
+中国电力出版社
+
+=共享者=
+[WJ 汪世俊]
+
+=标签=
+[WJ05]
