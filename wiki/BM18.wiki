@@ -1,0 +1,22 @@
+#summary C++编程规范
+
+=书名=
+C++编程规范
+101条规则、准则与最佳实践
+
+=原名=
+C++ Coding Standards
+101 Rules, Guidelines, and Best Practices
+
+=作者=
+Herb Sutter, Andrei Alexandrescu著
+刘基诚 译
+
+=出版社=
+人民邮电出版社
+
+=共享者=
+[BM 包明]
+
+=标签=
+[BM18]
