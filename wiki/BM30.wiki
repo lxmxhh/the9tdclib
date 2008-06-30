@@ -1,0 +1,19 @@
+#summary 数学简史
+
+=书名=
+A History of Mathematics
+
+=中文名=
+数学简史
+
+=作者=
+(美)Victor J. Katz 著
+
+=出版社=
+机械工业出版社
+
+=共享者=
+[BM 包明]
+
+=标签=
+[BM30]
