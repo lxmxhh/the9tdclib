@@ -1,0 +1,23 @@
+#summary IA-32 Intel Architecture Software Developer's Manual, Volume 1: Basic Architecture
+
+=书名=
+IA-32 Intel Architecture Software Developer's Manual, Volume 1: Basic Architecture
+
+=作者=
+Intel
+
+=出版社=
+Intel
+
+=共享者=
+[ZK 张子开]
+
+=标签=
+[ZK06]
+
+=系列=
+ * [ZK06 IA-32 Intel Architecture Software Developer's Manual, Volume 1: Basic Architecture]
+ * [ZK07 IA-32 Intel Architecture Software Developer's Manual, Volume 2A: Instruction Set Reference, A-M]
+ * [ZK08 IA-32 Intel Architecture Software Developer's Manual, Volume 2B: Instruction Set Reference, N-Z]
+ * [ZK09 IA-32 Intel Architecture Software Developer's Manual, Volume 3: System Programming Guide]
+ * [ZK10 IA-32 Intel Architecture Optimization Reference Manual]
