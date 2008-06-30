@@ -6,10 +6,12 @@
  * [MH01 C++程序设计语言]
  * [BM16 C++并行与分布式编程]
  * [XH01 深度探索C++对象模型]
- * [BM05 C++多范型设计]
+
+=应用=
  * [YK01 Visual C++程序员实用大全(精华版)]
  * [WJ01 ATL技术内幕]
  * [XH03 Intel Threading Building Blocks] | [HK01 相同的书]
+ * [ZK05 UNIX平台下C语言 高级编程指南]
 
 =算法=
  * [WJ02 STL源码剖析]
@@ -27,6 +29,7 @@
  * [XH02 交互式计算机图形学 英文版]
  * [XH05 计算机图形学基础]
  * [XH06 DirectX 5/6 高级多媒体程序开发]
+ * [ZK04 计算机图形学 第三版]
 
 =网络=
  * [BM15 C++网络编程 卷2]
@@ -44,10 +47,16 @@
  * [XH07 设计模式 可复用面向对象软件的基础] | [BM17 相同的书]
  * [LK05 深入浅出设计模式]
  * [BM13 分析模式 可复用的对象模型]
+ * [BM05 C++多范型设计]
 
 =计算机体系结构=
  * [LK06 计算机体系结构 量化研究方法]
  * [BM08 软件体系结构的艺术]
+ * [ZK06 IA-32 Intel Architecture Software Developer's Manual, Volume 1: Basic Architecture]
+ * [ZK07 IA-32 Intel Architecture Software Developer's Manual, Volume 2A: Instruction Set Reference, A-M]
+ * [ZK08 IA-32 Intel Architecture Software Developer's Manual, Volume 2B: Instruction Set Reference, N-Z]
+ * [ZK09 IA-32 Intel Architecture Software Developer's Manual, Volume 3: System Programming Guide]
+ * [ZK10 IA-32 Intel Architecture Optimization Reference Manual]
 
 =测试=
  * [LK01 测试驱动开发]
