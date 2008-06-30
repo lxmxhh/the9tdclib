@@ -12,6 +12,7 @@
  * [WJ01 ATL技术内幕]
  * [XH03 Intel Threading Building Blocks] | [HK01 相同的书]
  * [ZK05 UNIX平台下C语言 高级编程指南]
+ * [BM17 C++编程规范]
 
 =算法=
  * [WJ02 STL源码剖析]
