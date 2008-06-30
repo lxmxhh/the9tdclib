@@ -1,0 +1,20 @@
+#summary Java与CORBA客户/服务器编程 第二版
+
+=书名=
+Java与CORBA客户/服务器编程 第二版
+
+=原名=
+Client/Server Programming with Java and CORBA, Second Edition
+
+=作者=
+(美)Robert Orfali, Dan Harkey 著
+亢勇 译
+
+=出版社=
+电子工业出版社
+
+=共享者=
+[BM 包明]
+
+=标签=
+[BM23]
