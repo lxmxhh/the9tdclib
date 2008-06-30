@@ -1,0 +1,21 @@
+#summary 大型软件体系结构：使用UML实践指南
+
+=书名=
+大型软件体系结构：使用UML实践指南
+
+=原名=
+Large-Scale Software Architecture:
+A Practical Guide Using UML
+
+=作者=
+(美)Jeff Garland, Richard Anthony 著
+叶俊民 汪望珠 等 译
+
+=出版社=
+电子工业出版社
+
+=共享者=
+[BM 包明]
+
+=标签=
+[BM21]
