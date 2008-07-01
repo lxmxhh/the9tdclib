@@ -1,0 +1,21 @@
+#summary WINDOWS游戏编程大师技巧
+
+=书名=
+Windows游戏编程大师技巧(第二版)
+
+=原名=
+Tricks of the Windows Game Programming Gurus,
+2nd edition
+
+=作者=
+Andre LaMothe 著
+沙鹰 译
+
+=出版社=
+中国电力出版社
+
+=共享者=
+[XH 徐鸿]
+
+=标签=
+[XH09]
