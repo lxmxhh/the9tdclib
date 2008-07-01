@@ -8,7 +8,7 @@ Tricks of the Windows Game Programming Gurus,
 2nd edition
 
 =作者=
-(美)Andre LaMothe著
+(美)Andre LaMothe 著
 沙鹰 译
 
 =出版社=
