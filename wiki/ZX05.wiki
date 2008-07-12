@@ -1,0 +1,20 @@
+#summary 数据挖掘 概念与技术
+
+=书名=
+数据挖掘 概念与技术
+
+=原名=
+Data Mining, Concepts and Techniques, Second Edition
+
+=作者=
+(加)Jiawei Han, Micheline Kamber 著
+范明 孟小峰 译
+
+=出版社=
+机械工业出版社
+
+=共享者=
+[ZX 张驰曦]
+
+=标签=
+[ZX05]
