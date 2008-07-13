@@ -1,0 +1,19 @@
+#summary C++ 编程思想 第2卷 实用编程技术
+
+=书名=
+Thinking In C++, Volume Two, Practical Programming
+
+=中文名=
+C++ 编程思想 第2卷 实用编程技术
+
+=作者=
+(美)Bruce Eckel, Chuck Allison 著
+
+=出版社=
+机械工业出版社
+
+=共享者=
+[BM 包明]
+
+=标签=
+[BM34]
