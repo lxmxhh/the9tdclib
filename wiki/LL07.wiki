@@ -1,0 +1,20 @@
+#summary PHP & MySQL Web数据库应用开发指南
+
+=书名=
+PHP & MySQL Web数据库应用开发指南
+
+=原名=
+Web Database Application with PHP & MySQL
+
+=作者=
+Hugb E. Williams, David Lane 著
+谢君英 欧阳宇 译
+
+=出版社=
+中国电力出版社
+
+=共享者=
+[LL 梁亮]
+
+=标签=
+[LL07]
