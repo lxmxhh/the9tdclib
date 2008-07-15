@@ -1,0 +1,20 @@
+#summary PHP程序设计
+
+=书名=
+PHP程序设计
+
+=原名=
+Programming PHP
+
+=作者=
+Rasmus Lerdorf, Kevin Tatroe 著
+邓云佳 等 译
+
+=出版社=
+中国电力出版社
+
+=共享者=
+[LL 梁亮]
+
+=标签=
+[LL06]
