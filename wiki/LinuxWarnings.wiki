@@ -1,0 +1,84 @@
+#summary warnings under linux/gcc you may not got under windows/vc
+#labels Featured
+
+Linux/gcc下编译会出现的警告信息
+
+= Introduction =
+
+* 在Linux下编译时，要求程序文件的结尾都要有一个新行（只有一个换行符），否则会出警告（warning: no newline at end of file）。所以大家在删除程序文件结尾的代码时，注意别把结尾那个单独的行删除了。
+
+* 在类的构造函数处（构造函数名和函数体之间）初始化类成员时，初始化的先后顺序要和类成员定义的先后顺序一致，否则有警告。
+
+例1：不会有警告
+{{{
+class CQuery
+
+{
+
+         int     m_nA;
+
+…
+
+         int     m_nB;
+
+…
+
+         int     m_nC;
+
+…
+
+         CQuery()
+
+         :m_nA(0)
+
+         ,m_nB(0)
+
+         ,m_nC(0)
+
+         {
+
+         …
+
+         }
+
+}
+}}}
+ 
+
+例2：会有警告
+{{{
+class CQuery
+
+{
+
+         int     m_nA;
+
+…
+
+         int     m_nB;
+
+…
+
+         int     m_nC;
+
+         …
+
+         CQuery()
+
+         :m_nA(0)
+
+         ,m_nC(0)
+
+         ,m_nB(0)
+
+         {
+
+         …
+
+         }
+
+}
+}}}
+ 
+
+= Details =
