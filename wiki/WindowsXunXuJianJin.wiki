@@ -16,4 +16,4 @@ Windows编程循序渐进
 [XC 徐文超]
 
 =标签=
-[XC01]
+[WindowsXunXuJianJin]
