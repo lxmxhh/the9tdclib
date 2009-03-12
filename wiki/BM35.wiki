@@ -1,0 +1,19 @@
+#summary UML基础、案例与应用（第三版）
+
+=书名=
+UML基础、案例与应用（第三版）
+
+=原名=
+Sams Teach Yourself UML in 24 Hours, Third Edition
+
+=作者=
+(美)Joseph Schmuller 著 李虎 赵龙刚 译
+
+=出版社=
+人民邮电出版社
+
+=共享者=
+[BM 包明]
+
+=标签=
+[BM35]
