@@ -22,6 +22,7 @@
  * [WJ05 Windows 程序调试]
  * [BM20 .NET和Windows应用程序调试]
  * [BM31 高效程序的奥秘]
+ * [XC01 Windows编程循序渐进]
 
 =算法=
  * [WJ02 STL源码剖析]
