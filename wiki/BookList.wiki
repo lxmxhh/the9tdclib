@@ -13,7 +13,6 @@
   * [BM34 Thinking In C++]
   * [LL06 PHP程序设计]
   * [LY01 C++编程风格(英汉对照)]
-
  * =应用=
   * [YK01 Visual C++程序员实用大全(精华版)]
   * [WJ01 ATL技术内幕]
@@ -26,7 +25,6 @@
   * [BM20 .NET和Windows应用程序调试]
   * [BM31 高效程序的奥秘]
   * [XC01 Windows编程循序渐进]
-
  * =算法=
   * [WJ02 STL源码剖析]
   * [ZK01 实用算法设计与分析]
@@ -35,7 +33,6 @@
   * [CL04 数据结构 C++版]
   * [ZX01 数据结构]
   * [ZK12  算法导论]
-
  * =数学=
   * [LL01 普通统计学简明教程]
   * [LL02 统计建模与R软件]
@@ -48,7 +45,6 @@
   * [LL05 什么是数学]
   * [FJ01 高等数学(一)微积分]
   * [BM36  应用概率(数理统计 随机过程 时间序列)]
-
  * =图形=
   * [XH02 交互式计算机图形学 英文版]
   * [XH05 计算机图形学基础]
@@ -56,7 +52,6 @@
   * [ZK04 计算机图形学 第三版]
   * [BM22 数字图像处理]
   * [XH09 WINDOWS游戏编程大师技巧]
-
  * =网络=
   * [BM37  C++网络编程 卷1 运用ACE和模式消除复杂性]
   * [BM15 C++网络编程 卷2]
@@ -65,7 +60,6 @@
   * [CL02 C#网络应用案例导航]
   * [CL05 Fundamentals of WiMAX]
   * [BM23 Java与CORBA客户/服务器编程 第二版]
-
  * =设计=
   * [BM12 设计模式精解]
   * [BM01 面向模式的软件体系结构 卷1]
@@ -84,7 +78,6 @@
   * [BM26 软件工程技术概论]
   * [BM35 UML基础、案例与应用（第三版）]
   * [ZK11 代码之美]
-
  * =计算机体系结构=
   * [LK06 计算机体系结构 量化研究方法]
   * [BM08 软件体系结构的艺术]
@@ -93,28 +86,23 @@
   * [ZK08 IA-32 Intel Architecture Software Developer's Manual, Volume 2B: Instruction Set Reference, N-Z]
   * [ZK09 IA-32 Intel Architecture Software Developer's Manual, Volume 3: System Programming Guide]
   * [ZK10 IA-32 Intel Architecture Optimization Reference Manual]
-
  * =测试=
   * [LK01 测试驱动开发]
   * [LK02 软件测试（第2版）]
   * [LK03 软件安全测试技术]
-
  * =项目=
   * [BM09 软件项目估计]
   * [BM14 敏捷软件开发]
   * [LK04 移山之道 - VSTS软件开发指南] | [ZX02 相同的书]
   * [BM19 极限编程实践指南]
-
  * =游戏=
   * [BM25 游戏编程精粹1]
   * [BM06 游戏编程精粹4]
   * [HX01 游戏编程全接触]
-
  * =数据库=
   * [WJ06 MySQL 5 权威指南 第3版]
   * [ZX05 数据挖掘 概念与技术]
   * [LL07 PHP & MySQL Web数据库应用开发指南]
-
  * =其它=
   * [LK07 J2EE应用开发详解]
   * [ZK02 用Linux Free BSD轻松构建网络世界]
