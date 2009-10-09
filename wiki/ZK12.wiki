@@ -1,4 +1,4 @@
-#summary Beautiful Code Leading Programmers Explain How They Think
+#summary Introduction to Algorithms Second Edition
 
 =书名=
 算法导论
