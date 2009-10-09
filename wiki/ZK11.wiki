@@ -1,0 +1,21 @@
+#summary Beautiful Code Leading Programmers Explain How They Think
+
+=书名=
+代码之美
+
+=原名=
+Beautiful Code
+Leading Programmers Explain How They Think
+
+=作者=
+Andy Oram
+Greg Wilson
+
+=出版社=
+机械工业出版社
+
+=共享者=
+[ZK 张子开]
+
+=标签=
+[ZK11]
