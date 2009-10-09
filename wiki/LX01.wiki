@@ -1,0 +1,24 @@
+#summary C++必知必会
+
+=书名=
+C++必知必会
+
+=原名=
+C++ Common Knowledge
+Essential Intermediate Programming
+
+=作者=
+(美)Stephen C. Dewhurst 著
+荣耀 译
+
+=出版社=
+人民邮电出版社
+
+=共享者=
+[LX 李小琳]
+
+=标签=
+[LX01]
+
+=相同的书=
+[BM24]
