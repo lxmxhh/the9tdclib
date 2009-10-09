@@ -1,0 +1,20 @@
+#summary C++编程风格(英汉对照)
+
+=书名=
+C++编程风格(英汉对照)
+
+=原名=
+The Elements of C++ Style
+
+=作者=
+(美)Trevor Misfeldt, Gregory Bumgardner, Andrew Gray 著
+罗小平 译
+
+=出版社=
+人民邮电出版社
+
+=共享者=
+[LY 刘影齐]
+
+=标签=
+[LY01]
