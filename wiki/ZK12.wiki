@@ -1,0 +1,28 @@
+#summary Beautiful Code Leading Programmers Explain How They Think
+
+=书名=
+算法导论
+
+=原名=
+Introduction to Algorithms Second Edition
+
+=作者=
+Thomas H. Cormen
+Charles E. Leiserson
+Ronald L. Rivest
+Clifford Stein
+
+=译者=
+潘金贵
+顾铁成
+李成法
+叶懋(mào)
+
+=出版社=
+机械工业出版社
+
+=共享者=
+[ZK 张子开]
+
+=标签=
+[ZK12]
