@@ -1,0 +1,20 @@
+#summary C++程序设计语言
+
+=书名=
+C++程序设计语言(特别版)
+
+=原名=
+The C++ Programming Language (Special Edition)
+
+=作者=
+(美)Bjarne Stroustrup 著
+裘宗燕 译
+
+=出版社=
+机械工业出版社
+
+=共享者=
+[HJ 胡际涛]
+
+=标签=
+[HJ01]
