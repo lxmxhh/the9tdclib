@@ -1,0 +1,21 @@
+#summary C++网络编程 卷1 运用ACE和模式消除复杂性
+
+=书名=
+C++网络编程 卷1 运用ACE和模式消除复杂性
+
+=原名=
+C++ Network Programming Volume 1
+Mastering Complexity with ACE and Patterns
+
+=作者=
+Douglas C.Schmidt, Stephen D.Huston 著
+於春景 译 马维达 审校
+
+=出版社=
+华中科技大学出版社
+
+=共享者=
+[BM 包明]
+
+=标签=
+[BM37]
