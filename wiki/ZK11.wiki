@@ -1,4 +1,4 @@
-#summary Beautiful Code Leading Programmers Explain How They Think
+#summary 代码之美
 
 =书名=
 代码之美
