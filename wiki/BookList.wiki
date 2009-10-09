@@ -1,20 +1,19 @@
 #summary 全书清单
 #labels Featured
-<wiki:toc max_depth="1" />
-=语言=
- * [XH08 C++设计新思维]
- * [BM04 Effective STL] | [XH04 Effective STL 中文版]
- * [MH01 C++程序设计语言]
- * [HJ01 C++程序设计语言(特别版)]
- * [BM16 C++并行与分布式编程]
- * [XH01 深度探索C++对象模型]
- * [BM18 C++编程规范]
- * [BM24 C++必知必会] | [LX01 相同的书]
- * [BM34 Thinking In C++]
- * [LL06 PHP程序设计]
- * [LY01 C++编程风格(英汉对照)]
+ * =语言=
+   * [XH08 C++设计新思维]
+   * [BM04 Effective STL] | [XH04 Effective STL 中文版]
+   * [MH01 C++程序设计语言]
+   * [HJ01 C++程序设计语言(特别版)]
+   * [BM16 C++并行与分布式编程]
+   * [XH01 深度探索C++对象模型]
+   * [BM18 C++编程规范]
+   * [BM24 C++必知必会] | [LX01 相同的书]
+   * [BM34 Thinking In C++]
+   * [LL06 PHP程序设计]
+   * [LY01 C++编程风格(英汉对照)]
 
-=应用=
+ * =应用=
  * [YK01 Visual C++程序员实用大全(精华版)]
  * [WJ01 ATL技术内幕]
  * [XH03 Intel Threading Building Blocks] | [HK01 相同的书]
