@@ -8,8 +8,8 @@ Beautiful Code
 Leading Programmers Explain How They Think
 
 =作者=
-Andy Oram
-Greg Wilson
+Andy Oram, Greg Wilson 编
+BC Group 译
 
 =出版社=
 机械工业出版社
