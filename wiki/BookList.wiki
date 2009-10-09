@@ -1,5 +1,6 @@
 #summary 全书清单
 #labels Featured
+<wiki:toc max_depth="1" />
 =语言=
  * [XH08 C++设计新思维]
  * [BM04 Effective STL] | [XH04 Effective STL 中文版]
