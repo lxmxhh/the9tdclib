@@ -1,0 +1,21 @@
+#summary 重构 改善既有代码的设计(中文版)
+
+=书名=
+重构 改善既有代码的设计(中文版)
+
+=原名=
+Refactoring:
+Improving the Design of Existing Code
+
+=作者=
+(美)Martin Fowler 著
+侯捷 熊节 译
+
+=出版社=
+中国电力出版社
+
+=共享者=
+[MZ 孟昭俊]
+
+=标签=
+[MZ01]
