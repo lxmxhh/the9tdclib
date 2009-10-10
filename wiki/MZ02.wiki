@@ -1,0 +1,21 @@
+#summary 修改代码的艺术
+
+=书名=
+修改代码的艺术
+
+=原名=
+Working Effectively with Legacy Code
+
+=作者=
+(美)Michael C. Feathers 著
+Robert Martin 序
+刘未鹏 译
+
+=出版社=
+人民邮电出版社
+
+=共享者=
+[MZ 孟昭俊]
+
+=标签=
+[MZ02]
