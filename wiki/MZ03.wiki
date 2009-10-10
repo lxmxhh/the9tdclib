@@ -1,0 +1,21 @@
+#summary 设计模式解析(第2版)
+
+=书名=
+设计模式解析(第2版)
+
+=原名=
+Design Patterns Explained
+A New Perspective on Object-Oriented Design
+
+=作者=
+Alan Shalloway, James R. Trott 著
+徐言声 译
+
+=出版社=
+人民邮电出版社
+
+=共享者=
+[MZ 孟昭俊]
+
+=标签=
+[MZ03]
