@@ -4,7 +4,7 @@
 Thinking in C++ Second Edition
 Volume One: Introduction to Standard C++
 
-=书名=
+=中文名=
 C++编程思想 第二版
 卷一：标准C++导引
 
