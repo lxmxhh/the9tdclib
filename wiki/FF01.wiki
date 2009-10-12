@@ -1,0 +1,22 @@
+#summary Agile Software Development Principles, Patterns, and Practices
+
+=书名=
+Agile Software Development
+Principles, Patterns, and Practices
+
+=中文名=
+敏捷软件开发
+原则、模式与实践
+英文注释版
+
+=作者=
+(美)Robert C. Martin 著
+
+=出版社=
+人民邮电出版社
+
+=共享者=
+[FF 付丰]
+
+=标签=
+[FF01]
