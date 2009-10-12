@@ -11,8 +11,11 @@
   * [BM18 C++编程规范]
   * [BM24 C++必知必会] | [LX01 相同的书]
   * [BM34 Thinking In C++]
+  * [YZ01 Thinking in C++ Second Edition V1]
+  * [YZ02 Thinking in C++ Second Edition V2]
   * [LL06 PHP程序设计]
   * [LY01 C++编程风格(英汉对照)]
+
  * =应用=
   * [YK01 Visual C++程序员实用大全(精华版)]
   * [WJ01 ATL技术内幕]
