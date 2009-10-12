@@ -1,0 +1,21 @@
+#summary Thinking in C++ Second Edition V1
+
+=书名=
+Thinking in C++ Second Edition
+Volume One: Introduction to Standard C++
+
+=书名=
+C++编程思想 第二版
+卷一：标准C++导引
+
+=作者=
+(美)Bruce Eckel 著
+
+=出版社=
+机械工业出版社
+
+=共享者=
+[YZ 叶峥铖]
+
+=标签=
+[YZ01]
