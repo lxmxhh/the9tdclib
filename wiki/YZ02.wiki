@@ -3,7 +3,8 @@
 =书名=
 Thinking in C++ Second Edition
 Volume Two: Practical Programming
-=书名=
+
+=中文名=
 C++编程思想 第二版
 卷二：实用编程技术
 
