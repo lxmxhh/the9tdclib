@@ -1,0 +1,24 @@
+#summary Thinking in C++ Second Edition V2
+
+=书名=
+Thinking in C++ Second Edition
+Volume Two: Practical Programming
+=书名=
+C++编程思想 第二版
+卷二：实用编程技术
+
+=作者=
+(美)Bruce Eckel, Chuck Allison 著
+
+=出版社=
+机械工业出版社
+
+=共享者=
+[YZ 叶峥铖]
+
+=标签=
+[YZ02]
+
+=系列=
+[YZ01 Thinking in C++ Second Edition V1]
+[YZ02 Thinking in C++ Second Edition V2]
