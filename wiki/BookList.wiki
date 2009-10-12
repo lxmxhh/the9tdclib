@@ -15,7 +15,6 @@
   * [YZ02 Thinking in C++ Second Edition V2]
   * [LL06 PHP程序设计]
   * [LY01 C++编程风格(英汉对照)]
-
  * =应用=
   * [YK01 Visual C++程序员实用大全(精华版)]
   * [WJ01 ATL技术内幕]
@@ -29,6 +28,7 @@
   * [BM31 高效程序的奥秘]
   * [XC01 Windows编程循序渐进]
   * [MZ05 Visual Studio 2005 技术大全]
+  * [YZ03 Programming Windows Fifth Edition]
  * =算法=
   * [WJ02 STL源码剖析]
   * [ZK01 实用算法设计与分析]
